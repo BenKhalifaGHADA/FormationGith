@@ -1,2 +1,7 @@
 gestion user
+<<<<<<< HEAD
 gestion produit
+=======
+helloo ghada
+new update in file
+>>>>>>> user
